@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="TV Brasil" tvg-country="BR" group-title="TV Aberta",TV Brasil
+https://tvbrasil.ebc.com.br/sites/default/files/streaming/tvbrasil.m3u8
+
+#EXTINF:-1 tvg-name="TV Cultura" tvg-country="BR" group-title="TV Aberta",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 tvg-name="TV Senado" tvg-country="BR" group-title="TV Pública",TV Senado
+https://vid04.streaming.estudio41.com.br/tvsenado/tvsenado/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="TV Câmara" tvg-country="BR" group-title="TV Pública",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-name="Canal Saúde" tvg-country="BR" group-title="TV Pública",Canal Saúde
+https://streaming.datasus.gov.br/saude/saude.m3u8
+
+#EXTINF:-1 tvg-name="TV Justiça" tvg-country="BR" group-title="TV Pública",TV Justiça
+https://livestreaming.tvjustica.jus.br/tvjustica/tvjustica.m3u8
+
+#EXTINF:-1 tvg-name="TV Escola" tvg-country="BR" group-title="Educação",TV Escola
+https://video-rvdge.rnp.br/live/rtve/playlist.m3u8
