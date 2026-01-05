@@ -1,0 +1,22 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/master/guides/br/br.xml" catchup="append" catchup-days="2"
+
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/TV_Brasil_logo_2020.png" group-title="TV Aberta",TV Brasil
+https://tvbrasil.ebc.com.br/sites/default/files/streaming/tvbrasil.m3u8
+
+#EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TV_Cultura_logo_2022.png" group-title="TV Aberta",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Câmara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TV_C%C3%A2mara_logo.png" group-title="TV Pública",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TVSenado.br" tvg-name="TV Senado" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/TV_Senado_logo.png" group-title="TV Pública",TV Senado
+https://vid04.streaming.estudio41.com.br/tvsenado/tvsenado/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TVJustica.br" tvg-name="TV Justiça" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/TV_Justi%C3%A7a_logo.png" group-title="TV Pública",TV Justiça
+https://livestreaming.tvjustica.jus.br/tvjustica/tvjustica.m3u8
+
+#EXTINF:-1 tvg-id="TVEscola.br" tvg-name="TV Escola" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Escola_logo.png" group-title="Educação",TV Escola
+https://video-rvdge.rnp.br/live/rtve/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalSaude.br" tvg-name="Canal Saúde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal_Sa%C3%BAde_logo.png" group-title="Saúde",Canal Saúde
+https://streaming.datasus.gov.br/saude/saude.m3u8
